@@ -4,3 +4,5 @@
 Social Network with big focus on implementation of data structures suck as Dictionary, List, Stack, Queue, Iterator, Tree.
 
 Project description in portuguese: TrabalhoAED201330102013.pdf
+
+#### Final Grade: 19/20
